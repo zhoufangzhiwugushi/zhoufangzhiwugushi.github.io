@@ -1,0 +1,57 @@
+{
+
+	"class":{
+		"1":"工作室",
+		"2":"项目",
+		"3":"行业",
+		"4":"编码",
+		"5":"设计",
+		"6":"杂谈",
+		"7":"未分类"
+	},
+
+	"blogs":[
+		{
+			"id":1234567890,
+			"class":1,
+			"featured":1,
+			"title":"加入博客部分",
+			"author":"老周",
+			"time":"2017 08 23",
+			"limg":"1140x500-3.jpg",
+			"mimg":"750x500-3.jpg",
+			"simg":"90x60-1.jpg",
+			"intro":"first",
+			"review":3,
+			"href":"./post.html?id=1234567890"
+		},
+		{
+			"id":1234567891,
+			"class":2,
+			"featured":0,
+			"title":"初步设定首页",
+			"author":"老周",
+			"time":"2017 08 21",
+			"limg":"",
+			"mimg":"",
+			"simg":"",
+			"intro":"second",
+			"review":3,
+			"href":"./post.html?id=1234567891"
+		},
+		{
+			"id":1234567892,
+			"class":3,
+			"featured":1,
+			"title":"网站筹划中",
+			"author":"老周",
+			"time":"2017 08 20",
+			"limg":"",
+			"mimg":"",
+			"simg":"",
+			"intro":"third",
+			"review":3,
+			"href":"./post.html?id=1234567892"
+		}
+	]
+}
